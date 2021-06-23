@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You must bring us a shrubbery!
 Use the left arrow to go back!
